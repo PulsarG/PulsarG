@@ -15,7 +15,7 @@ Spacepunk the Game </br>
 
 ### 🌐 Socials:
 
-[![GMAIL](https://img.shields.io/badge/gmail-%2300599C.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furylonzero@gmail.com) 
+[![GMAIL](https://img.shields.io/badge/gmail-%2300599C.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pulsar.g.projects@gmail.com) 
 [![YMAIL](https://img.shields.io/badge/ymail-%2300599C.svg?style=for-the-badge&logo=ymail&logoColor=white)](mailto:ya-alex-push@yandex-team.ru)
 [![Telegram](https://img.shields.io/badge/telegram-%2300599C.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alex_Under_Great)
 
