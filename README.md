@@ -18,3 +18,6 @@ Spacepunk the Game </br>
 [![YMAIL](https://img.shields.io/badge/ymail-%2300599C.svg?style=for-the-badge&logo=ymail&logoColor=white)](mailto:ya-alex-push@yandex-team.ru)
 [![Telegram](https://img.shields.io/badge/telegram-%2300599C.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Alex_Under_Great)
 
+[![HH](https://img.shields.io/badge/hh-%2300599C.svg?style=for-the-badge&logo=hh&logoColor=white)](https://yaroslavl.hh.ru/resume/28d17dabff0bb4d1ba0039ed1f4274464e4361)
+[![in](https://img.shields.io/badge/in-%2300599C.svg?style=for-the-badge&logo=in&logoColor=white)](https://yaroslavl.hh.ru/resume/28d17dabff0bb4d1ba0039ed1f4274464e4361)
+
