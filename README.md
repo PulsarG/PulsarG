@@ -1,7 +1,6 @@
 ### Welcome, I'm Alexandr!
 
-Dev and Admin </br>
-[Cyberpunk2020.ru](cyberpunk.2020) </br>
+Dev and Admin </br> [Cyberpunk2020.ru](cyberpunk.2020) </br>
 Enigma PassManager </br>
 Spacepunk the Game </br>
 Лаунчер для игры lastfrontier.ru </br>
